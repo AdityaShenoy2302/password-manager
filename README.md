@@ -1,10 +1,6 @@
 # Password Manager
 
-A simple and secure Password Manager application built with Python, Tkinter for the GUI, SQLite for database management, and the `cryptography` library for encrypting passwords.
-
-## Introduction
-
-This Password Manager allows you to securely store, generate, and retrieve passwords for different websites. All passwords are encrypted and stored locally in an SQLite database.
+A simple and secure Password Manager application built with Python, Tkinter for the GUI, SQLite for database management, and the `cryptography` library for encrypting passwords. This Password Manager allows you to securely store, generate, and retrieve passwords for different websites. All passwords are encrypted and stored locally in an SQLite database.
 
 ## Features
 
@@ -25,4 +21,8 @@ This Password Manager allows you to securely store, generate, and retrieve passw
     - The generated password will be automatically copied to your clipboard.
 4. To search for an existing password:
     - Enter the website name and click the "Search" button.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/ee8dfe18-53dd-4230-86cd-92e36d25696c)
+
 
